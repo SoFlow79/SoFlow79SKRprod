@@ -1,0 +1,41 @@
+
+<html>
+	<head>
+		<title>SKRprod </title>
+		<link rel="stylesheet" href="1.css">
+		<link rel="shortcut icon" href="1.png" type="image/x-icon">
+	</head>
+	<body>
+		<table>
+			<tr>
+				<center> <a href=accueil.html> <img src="1.png" alt="SKRprod" width="400" height="200"> </a> </center>
+			</tr>
+		</table>
+		<p class="aa"> Bienvenu sur votre Studio.</p>
+		<p class="ab"> Vous êtes rappeur, DJ ou beatmaker ?</p>
+		<p class="ab"> Vous êtes au bon endroit ! ?</p>
+		<p class="ab">Chez SKRprod, nous sommes spécialisés dans une large gamme de services professionnels liés à l'audio et à la vidéo. Que vous ayez besoin d'enregistrements musicaux de haute qualité, de mixage et de mastering, ou de production vidéo, notre équipe d'experts est là pour vous aider à réaliser vos projets créatifs.</p>
+		<ul>
+			<li>Achetter des instru</li>
+			<li>Vendre des instru</li>
+			<li>Crée des vidéo-clip</li>
+			<li>Crée des artwork</li>
+			<li>Recorder, Mixer, Masteriser</li>
+			<li>Donner des formation gratouit Audio visuelle</li>
+		</ul>
+		<table>
+			<tr>
+				<th> Fix <th>
+				<th> 0530171133 <th>
+			</tr>
+			<tr>
+				<th> Telephone <th>
+				<th> 0695490363 <th>
+			</tr>
+			<tr>
+				<th> Email <th>
+				<th> cherkaouiomar355@gmail.com <th>
+			</tr>
+		</table>
+	</body>
+</html>
